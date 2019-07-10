@@ -169,7 +169,7 @@ With the normal equation, computing the inversion has complexity _**𝛰(n<sup>3
 
 ## Normal Equation Noninvertibility
 
-When implementing the normal equation in octave we want to use the `pinv` function rather than `inv`. 
+When implementing the normal equation in [**Octave**](https://www.gnu.org/software/octave/) use the `pinv` function rather than `inv`. 
 
 The `pinv` function will give you a value of _**𝜽**_ even if _**𝘟<sup>𝘛</sup>𝘟**_ is not invertible.
 
