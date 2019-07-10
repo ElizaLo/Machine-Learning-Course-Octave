@@ -12,6 +12,8 @@ This repository contains Octave/MatLab examples of popular machine learning algo
 
 ## Supervised Learning
 
+![Supervised Learning](https://github.com/ElizaLo/Machine-Learning-Course-Octave/blob/master/images/Supervised%20Learning.jpg)
+
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.
 
 In supervised learning we have a set of training data as an input and a set of labels or "correct answers" for each training set as an output. Then we're training our model (machine learning algorithm parameters) to map the input to the output correctly (to do correct prediction). The ultimate purpose is to find such model parameters that will successfully continue correct input→output mapping (predictions) even for new input examples.
@@ -49,6 +51,8 @@ In classification problems we split input examples by certain characteristic.
 💻 _**Usage examples:** spam-filters, language detection, finding similar documents, handwritten letters recognition, etc._
 
 ## Unsupervised Learning
+
+![Unsupervised Learning](https://github.com/ElizaLo/Machine-Learning-Course-Octave/blob/master/images/Unsupervised%20Learning.jpg)
 
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
 
